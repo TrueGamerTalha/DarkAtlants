@@ -1,1 +1,1 @@
-# DarkAtlantes
+DarkAtlants is a bot Made For ClueStarGaming Discord Server
